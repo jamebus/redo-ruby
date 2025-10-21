@@ -1,4 +1,4 @@
 [tools]
 ruby = "3.4.7"
-"gem:rubocop" = "1.81.1"
+"gem:rubocop" = "1.81.6"
 "gem:reek" = "6.5.0"
