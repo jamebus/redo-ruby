@@ -7,3 +7,5 @@ redo-ifchange redo.rb
 
 rubocop redo.rb
 reek < redo.rb
+
+# vim: ft=sh
