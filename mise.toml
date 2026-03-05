@@ -1,3 +1,6 @@
+[settings]
+lockfile = true
+
 [tools]
 ruby = "4.0.1"
 "gem:rubocop" = "1.85.0"
