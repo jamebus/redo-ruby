@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require 'run_command'
+require_relative 'run_command'
 
 # Run a redo command
 class Redo
