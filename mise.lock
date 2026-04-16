@@ -5,7 +5,7 @@ version = "6.5.0"
 backend = "gem:reek"
 
 [[tools."gem:rubocop"]]
-version = "1.86.0"
+version = "1.86.1"
 backend = "gem:rubocop"
 
 [[tools.ruby]]
