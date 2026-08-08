@@ -3,5 +3,5 @@ lockfile = true
 
 [tools]
 ruby = "4.0.6"
-"gem:rubocop" = "1.88.2"
+"gem:rubocop" = "1.89.0"
 "gem:reek" = "6.5.0"
